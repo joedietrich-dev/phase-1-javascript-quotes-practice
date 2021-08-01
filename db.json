@@ -54,6 +54,26 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "id": 12
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "id": 13
+    },
+    {
+      "quote": "Live. Laugh. Love.",
+      "author": "A white lady",
+      "id": 14
+    },
+    {
+      "quote": "Learn. Love. Code.",
+      "author": "Flatiron School",
+      "id": 15
     }
   ],
   "likes": [
@@ -66,6 +86,73 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1627856046,
+      "id": 3
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1627856047,
+      "id": 4
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1627856047,
+      "id": 5
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1627856050,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1627856051,
+      "id": 7
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1627856051,
+      "id": 8
+    },
+    {
+      "createdAt": 1627856071,
+      "id": 9
+    },
+    {
+      "createdAt": 1627856072,
+      "id": 10
+    },
+    {
+      "createdAt": 1627856072,
+      "id": 11
+    },
+    {
+      "quoteId": 15,
+      "createdAt": 1627856274,
+      "id": 12
+    },
+    {
+      "quoteId": 15,
+      "createdAt": 1627856275,
+      "id": 13
+    },
+    {
+      "quoteId": 15,
+      "createdAt": 1627856275,
+      "id": 14
+    },
+    {
+      "quoteId": 15,
+      "createdAt": 1627856275,
+      "id": 15
+    },
+    {
+      "quoteId": 15,
+      "createdAt": 1627856275,
+      "id": 16
     }
   ]
 }
