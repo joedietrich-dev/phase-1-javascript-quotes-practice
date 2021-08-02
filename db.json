@@ -1,9 +1,9 @@
 {
   "quotes": [
     {
-      "id": 1,
       "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
+      "author": "Alice Walker",
+      "id": 1
     },
     {
       "id": 2,
@@ -64,11 +64,6 @@
       "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
       "author": "Winston Churchill",
       "id": 13
-    },
-    {
-      "quote": "Live. Laugh. Love.",
-      "author": "A white lady",
-      "id": 14
     },
     {
       "quote": "Learn. Love. Code.",
@@ -153,6 +148,71 @@
       "quoteId": 15,
       "createdAt": 1627856275,
       "id": 16
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1627867951,
+      "id": 17
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1627867951,
+      "id": 18
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1627867951,
+      "id": 19
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1627867955,
+      "id": 20
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627869338,
+      "id": 21
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627869342,
+      "id": 22
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627869347,
+      "id": 23
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627869347,
+      "id": 24
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627869348,
+      "id": 25
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627870126,
+      "id": 26
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627870127,
+      "id": 27
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627870128,
+      "id": 28
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1627870128,
+      "id": 29
     }
   ]
 }
